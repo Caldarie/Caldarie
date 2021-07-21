@@ -1,16 +1,18 @@
-### Hi there 👋
+### Welcome!
 
-<!--
-**Caldarie/Caldarie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Michael, Educator from Sydney, Australia, currently living in Tokyo, Japan. 
 
-Here are some ideas to get you started:
+### About me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎁 Currently working on intergrating Sound Event Detection to Flutter
+- ⭐ Contributed some [open source projects](https://pub.dev/packages/tflite_audio) to the flutter community. 
+- ⚡ Interested in Flutter, Native Android and iOS, Data Science, and Machine Learning.
+- 🌍 I’m looking to collaborate on open source flutter projects related to sound.
+- 📬 How to reach me: michaeltamthiennguyen@gmail.com
+
+### Github stats:
+
+<img align="left"  width="355px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Caldarie&layout=compact&theme=radical" />
+
+<img align="center" width="425px" src="https://github-readme-stats.vercel.app/api?username=Caldarie&show_icons=true&theme=radical" />
+
