@@ -4,7 +4,7 @@ I'm Michael from Sydney, Australia 🇦🇺. Currently living in Tokyo, Japan �
 
 ### About me:
 
-- 🎁 Working with Flutter, Swift, Python, Dart, Java.
+- 🎁 Have worked with Flutter, Swift, Python, Dart, Java.
 - ⭐ Interested in machine learning and mobile development.
 - ⚡ Currently working on Sound Event Detection with Tensorflow and Flutter.
 - 🌍 Looking to collaborate on some fun open source projects.
