@@ -7,7 +7,7 @@ I'm Michael from Sydney, Australia 🇦🇺. Currently living in Tokyo, Japan �
 - 🎁 Have worked with Flutter, Swift, Python, Dart, Java.
 - ⭐ Interested in machine learning and mobile development.
 - ⚡ Currently working on Sound Event Detection with Tensorflow and Flutter.
-- 🌍 Looking to collaborate on some fun open source projects.
+- 🌍 Open to freelancing/contract work
 - 📬 How to reach me: michaeltamthiennguyen@gmail.com
 
 ### Github stats:
